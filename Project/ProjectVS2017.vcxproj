@@ -95,12 +95,14 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="PlayerShot.cpp" />
     <ClCompile Include="Stage.cpp" />
     <ClCompile Include="GameApp.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="WinMain.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PlayerShot.h" />
     <ClInclude Include="Stage.h" />
     <ClInclude Include="GameApp.h" />
     <ClInclude Include="GameDefine.h" />
