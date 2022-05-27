@@ -9,8 +9,7 @@ m_Pos(0.0f,0.0f,0.0f),
 m_RotZ(0.0f),
 m_ShotMesh(),
 m_ShotArray(),
-m_ShotWait(),
-m_ShotMode(){
+m_ShotWait(){
 }
 
 /**
